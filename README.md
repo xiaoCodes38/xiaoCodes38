@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaoCodes38
 - 👀 I’m interested in python, data science and soccer!!!
-- 🌱 I’m currently learning Information Systems
+- 🌱 I’m currently learning Information Systems at Binghamton University, New York.
 - 📫 How to reach me ashutoshdas38x@gmail.com
 
 <!---
